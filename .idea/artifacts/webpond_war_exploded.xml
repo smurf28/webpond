@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webpond:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/webpond_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="webpond" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="webpond/web/Web" />
+    </root>
+  </artifact>
+</component>
